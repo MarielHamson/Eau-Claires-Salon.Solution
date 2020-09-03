@@ -17,8 +17,6 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
-
 ## Key Features
 
 - Tracks Stylists and Clients
@@ -106,5 +104,5 @@ MIT
 ---
 
 > LinkedIn[MarielHamson](https://www.linkedin.com/MarielHamson) &nbsp;&middot;&nbsp;
-> GitHub [MarielHamson](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
+> GitHub [MarielHamson](https://github.com/MarielHamson) &nbsp;&middot;&nbsp;
 > Instagram [Miriquitecontrary](https://instagram.com/miriquitecontrary)
